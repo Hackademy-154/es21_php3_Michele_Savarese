@@ -1,0 +1,18 @@
+Per far vedere il risultato di una funzione nel terminale bisogna usare return perché con echo non si mostra nel browser.
+
+
+Programmazione orientata agli oggetti - object oriented programmaing (OOP)
+
+
+esercizio sugli insiemi: rimuovi dagli insieme l'elemento che non gli appartiene
+le classi sono come degli insiemi perché quando creaiamo una classe creiamo una classificazione. Gli oggetti sono accomunati da una stessa classe.
+La classificazione si fa terminale OOP,
+
+Gli oggetti ci permettono di avere uno schema con cui inserire gli elementi, questo ci permette di risparmiare tempo.
+
+
+//! public viene definito un access modifier, è una keyword che mettiamo prima di una funzione o di un attributo
+//! access modifier, modificatore di accesso, indica la visibilità
+//public - accessibile e visibile ovunque nel codice
+//protected - è accessibile in lettura o scrittura solo all'interno della classe. Si utilizza per fare data hiding
+//? private - privato è uguale a protected con la caratterstica che non viene ereditato
